@@ -1,0 +1,15 @@
+{
+  "name": "DiscoCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "djs-self": "^12.5.3"
+  }
+}
