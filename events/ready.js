@@ -1,4 +1,4 @@
-const chalk = require('chalk');
+const Chalk = require('chalk');
 const Discord = require("djs-self");
 
 module.exports = async (client) => {
