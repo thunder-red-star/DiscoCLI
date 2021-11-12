@@ -4,3 +4,4 @@ const config = require("./config/config.json")
 
 const client = new Discord.Client();
 
+client.login(config.token)
